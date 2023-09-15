@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "BazaSzachowaMobile",
+    "slug": "bazaszachowamobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "c073452f-320e-4e45-8a01-751a8b1c3e48"
+      }
+    },
+    "owner": "andkul",
+    "android": {
+      "package": "com.andkul.bazaszachowamobile"
+    },
+    "ios": {
+      "bundleIdentifier": "com.andkul.bazaszachowamobile"
+    },
+    "runtimeVersion": "1.0.0",
+    "updates": {
+      "url": "https://u.expo.dev/c073452f-320e-4e45-8a01-751a8b1c3e48"
+    }
+  },
+  "name": "BazaSzachowaMobile"
+}
